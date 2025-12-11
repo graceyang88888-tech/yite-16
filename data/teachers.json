@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t1",
+    "name": "陳數學",
+    "subject": "數學科",
+    "title": "首席名師",
+    "image": "images/t1.jpg",
+    "intro": "教學經驗20年，擅長將複雜觀念簡單化，深受學生喜愛。"
+  },
+  {
+    "id": "t2",
+    "name": "林英文",
+    "subject": "英文科",
+    "title": "留美碩士",
+    "image": "images/t2.jpg",
+    "intro": "強調互動式教學，讓學生不只會考試，更敢開口說英文。"
+  },
+  {
+    "id": "t3",
+    "name": "黃物理",
+    "subject": "自然科",
+    "title": "補教界新星",
+    "image": "images/t3.jpg",
+    "intro": "自創口訣記憶法，讓物理化學不再是學生的噩夢。"
+  }
+]

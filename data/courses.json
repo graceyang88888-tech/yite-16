@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c1",
+    "name": "國三會考衝刺班",
+    "category": "國中升學",
+    "teacher": "王牌數學團隊",
+    "image": "images/course1.jpg",
+    "desc": "針對會考趨勢精準命題，高強度模擬考與檢討，協助學生最後衝刺。"
+  },
+  {
+    "id": "c2",
+    "name": "高一英文先修班",
+    "category": "高中英文",
+    "teacher": "Jennifer 老師",
+    "image": "images/course2.jpg",
+    "desc": "銜接國高中英文落差，強化文法與閱讀能力，提早適應高中教材。"
+  },
+  {
+    "id": "c3",
+    "name": "高二物理資優班",
+    "category": "自然科學",
+    "teacher": "張物理",
+    "image": "images/course3.jpg",
+    "desc": "深入淺出講解力學與電磁學，著重觀念推導而非死背公式。"
+  },
+  {
+    "id": "c4",
+    "name": "國一生物素養班",
+    "category": "自然科學",
+    "teacher": "李生物",
+    "image": "images/course4.jpg",
+    "desc": "透過實驗與觀察，培養生物學興趣，符合新課綱素養導向。"
+  },
+  {
+    "id": "c5",
+    "name": "多益金色證書班",
+    "category": "高中英文",
+    "teacher": "David 老師",
+    "image": "images/course5.jpg",
+    "desc": "針對聽力與閱讀進行解題技巧訓練，目標短期內突破 860 分。"
+  }
+]
