@@ -177,3 +177,22 @@ app-footer {
         background-position: top center;
     }
 }
+/* --- 手機版漢堡按鈕優化 (放大版) --- */
+.navbar-toggler {
+    border: 2px solid var(--yite-blue) !important; /* 邊框加粗，更明顯 */
+    padding: 8px 16px !important; /* 增加內距，讓按鈕面積變大 */
+    margin-right: 10px; /* 右邊稍微留白，不要貼壁 */
+    transition: all 0.2s;
+}
+
+    /* 針對裡面的圖示 (三條線 icon) */
+    .navbar-toggler i {
+        font-size: 1.8rem !important; /* 字體放大 (原本約 1rem) */
+        color: var(--yite-blue) !important; /* 強制使用深藍色 */
+    }
+
+    /* 按下去的微互動效果 */
+    .navbar-toggler:active {
+        transform: scale(0.95); /* 點擊時稍微縮小，增加回饋感 */
+        background-color: #f0f0f0;
+    }
